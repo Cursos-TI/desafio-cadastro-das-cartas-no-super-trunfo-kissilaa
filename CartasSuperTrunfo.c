@@ -18,6 +18,9 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+    printf("DESAFIO SUPER TRUNFO:\n");
+    printf("\n");
+
     //Carta 1:
     char estado = 'A';
     char codigodacarta[20] = "A01";
